@@ -32,7 +32,7 @@ This is a Bash script to help monitor log files for any occurrences of "ERROR" o
 
     The script will now continuously monitor the log file for any lines containing "ERROR" or "FAIL". If it finds any, it will print an alert message to the terminal.
 
-## Example Output
+## Output
 
 When the script detects an "ERROR" or "FAIL" in the log file, it will output something like this:
 
