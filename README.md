@@ -5,7 +5,7 @@ This is a Bash script to help monitor log files for any occurrences of "ERROR" o
 ## What You'll Need
 
 - A Bash shell
-- A log file to monitor (I'm using one called `systems.log` in this example).
+- A log file to monitor (I'm using one called `systems.log`).
 
 ## Steps Followed
 1. **Grab the Script**: First, download or clone this repository to your computer.
